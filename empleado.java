@@ -16,6 +16,7 @@ public class empleado {
 =======
 	//Ivan Coments
 <<<<<<< HEAD
+	//Rafa
 	public String cveEmpleado;
 	public String nombre;
 	public String apellido;
@@ -31,6 +32,7 @@ public class empleado {
 		
 	}
 <<<<<<< HEAD
+	//rafa
 		public void empleado(String cveEmpleado, String nombre, String apellido, String cargo, double sueldo){
 			this.cveEmpleado = cveEmpleado;
 			this.nombre = nombre;
