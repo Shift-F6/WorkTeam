@@ -1,6 +1,7 @@
 import java.awt;
 
-public class empleado {
+public class mi primer programa {
+    public static void main(String[] ar) {
 	//Rafa propiedades
 	//Ivan metodos
 	//Pedro main
