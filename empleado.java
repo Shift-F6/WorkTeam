@@ -5,6 +5,7 @@ public class empleado {
 	//Ivan metodos
 	//Pedro main
 	//Ivan Coments
+	//Oscar O_O
 	public void empleado() {
 		
 		
