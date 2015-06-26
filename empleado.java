@@ -1,7 +1,13 @@
 import java.awt;
 
+<<<<<<< HEAD
 public class mi primer programa {
     public static void main(String[] ar) {
+=======
+public class empleado {
+	
+	String SuckThis = ".i.";
+>>>>>>> dcade38bff9a6284679bcf8c97fc18525bf039d4
 	//Rafa propiedades
 	//Ivan metodos
 	//Pedro main
@@ -15,4 +21,11 @@ public class mi primer programa {
 		
 		
 	}
+<<<<<<< HEAD
+	public void fucking_method(String suck){
+		SuckThis = suck;
+	}
 }
+=======
+}
+>>>>>>> da1fd7c18b5a152ab090a42fb0bd5cc76518e978
