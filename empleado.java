@@ -4,7 +4,7 @@ public class empleado {
 	//Rafa propiedades
 	//Ivan metodos
 	//Pedro main
-	//Ivan Coments
+	//que quieres que comente jijo...!!!!!!!!
 	public void empleado() {
 		
 		
